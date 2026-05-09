@@ -31,7 +31,7 @@ You see how the process works. Another powerful feature of this lab is observing
 
 ## Built by @dilmilsoach
 ## ⚙️ Local Setup
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/stats-simulation-lab.git`
+1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `python app.py`
 4. Visit `http://127.0.0.1:5000` in your browser.
